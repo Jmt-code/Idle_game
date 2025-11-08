@@ -1,4 +1,4 @@
-# 🍪 Idle Clicker Game# 🍪 Idle Clicker Game# 🍪 Idle Clicker Game
+# 🍪 Idle Clicker Game# 🍪 Idle Clicker Game# 🍪 Idle Clicker Game# 🍪 Idle Clicker Game# 🍪 Idle Clicker Game
 
 
 
@@ -6,7 +6,7 @@ An addictive idle clicker game inspired by Cookie Clicker, built with React and 
 
 
 
-## 🎮 [PLAY NOW!](https://jmt-code.github.io/Idle_game/)An addictive idle clicker game inspired by Cookie Clicker, built with React and Zustand.Un adictivo juego idle clicker estilo Cookie Clicker construido con React y Zustand.
+## 🎮 [PLAY NOW!](https://jmt-code.github.io/Idle_game/)An addictive idle clicker game inspired by Cookie Clicker, built with React and Zustand.
 
 
 
@@ -14,7 +14,7 @@ An addictive idle clicker game inspired by Cookie Clicker, built with React and 
 
 
 
----## 🎮 [PLAY NOW!](https://jmt-code.github.io/Idle_game/)## 🎮 [¡JUEGA AHORA!](https://jmt-code.github.io/Idle_game/)
+---## 🎮 [PLAY NOW!](https://jmt-code.github.io/Idle_game/)An addictive idle clicker game inspired by Cookie Clicker, built with React and Zustand.
 
 
 
@@ -22,7 +22,7 @@ An addictive idle clicker game inspired by Cookie Clicker, built with React and 
 
 
 
-### 🎯 Objective> **Live Version:** https://jmt-code.github.io/Idle_game/> **Live Version:** https://jmt-code.github.io/Idle_game/
+### 🎯 Objective> **Live Version:** https://jmt-code.github.io/Idle_game/
 
 Bake as many cookies as you can by clicking the giant cookie and purchasing buildings that generate them automatically.
 
@@ -30,7 +30,7 @@ Bake as many cookies as you can by clicking the giant cookie and purchasing buil
 
 ### 🖱️ Basic Controls
 
-1. **Click the cookie** 🍪 - Generates +1 cookie per click------
+1. **Click the cookie** 🍪 - Generates +1 cookie per click---## 🎮 [PLAY NOW!](https://jmt-code.github.io/Idle_game/)An addictive idle clicker game inspired by Cookie Clicker, built with React and Zustand.Un adictivo juego idle clicker estilo Cookie Clicker construido con React y Zustand.
 
 2. **Buy buildings** 🏪 - Generates cookies automatically
 
@@ -38,7 +38,7 @@ Bake as many cookies as you can by clicking the giant cookie and purchasing buil
 
 
 
-### 🏪 Purchase System## 📖 How to Play## 📖 Cómo Jugar
+### 🏪 Purchase System## 📖 How to Play
 
 - **Quantity selector**: Choose how many buildings to buy at once
 
@@ -46,11 +46,11 @@ Bake as many cookies as you can by clicking the giant cookie and purchasing buil
 
   - `x5` - Buy 5 buildings
 
-  - `x10` - Buy 10 buildings### 🎯 Objective### 🎯 Objetivo
+  - `x10` - Buy 10 buildings### 🎯 Objective> **Live Version:** https://jmt-code.github.io/Idle_game/
 
   - `x100` - Buy 100 buildings
 
-  - `MAX` - Buy the maximum you can affordBake as many cookies as you can by clicking the giant cookie and purchasing buildings that generate them automatically.Hornea tantas galletas como puedas haciendo click en la galleta gigante y comprando edificios que las generen automáticamente.
+  - `MAX` - Buy the maximum you can affordBake as many cookies as you can by clicking the giant cookie and purchasing buildings that generate them automatically.
 
 
 
@@ -58,19 +58,19 @@ Bake as many cookies as you can by clicking the giant cookie and purchasing buil
 
 
 
-| Building | Base Cost | Production/s | Description |### 🖱️ Basic Controls### 🖱️ Controles Básicos
+| Building | Base Cost | Production/s | Description |### 🖱️ Basic Controls
 
 |----------|-----------|--------------|-------------|
 
-| 👆 Cursor | 15 | 0.1 | Autoclicks the cookie |1. **Click the cookie** 🍪 - Generates +1 cookie per click1. **Click en la galleta** 🍪 - Genera +1 galleta por click
+| 👆 Cursor | 15 | 0.1 | Autoclicks the cookie |1. **Click the cookie** 🍪 - Generates +1 cookie per click---## 🎮 [PLAY NOW!](https://jmt-code.github.io/Idle_game/)## 🎮 [¡JUEGA AHORA!](https://jmt-code.github.io/Idle_game/)
 
 | 👵 Grandma | 100 | 1 | A nice grandma to bake more cookies |
 
-| 🌾 Farm | 1,100 | 8 | Grows cookie plants from cookie seeds |2. **Buy buildings** 🏪 - Generates cookies automatically2. **Compra edificios** 🏪 - Genera galletas automáticamente
+| 🌾 Farm | 1,100 | 8 | Grows cookie plants from cookie seeds |2. **Buy buildings** 🏪 - Generates cookies automatically
 
 | ⛏️ Mine | 12,000 | 47 | Mines out cookie dough and chocolate chips |
 
-| 🏭 Factory | 130,000 | 260 | Produces large quantities of cookies |3. **Upgrade your production** 📈 - Unlock more powerful buildings3. **Mejora tu producción** 📈 - Desbloquea nuevos edificios más poderosos
+| 🏭 Factory | 130,000 | 260 | Produces large quantities of cookies |3. **Upgrade your production** 📈 - Unlock more powerful buildings
 
 | 🏦 Bank | 1,400,000 | 1,400 | Generates cookies from interest |
 
@@ -78,31 +78,31 @@ Bake as many cookies as you can by clicking the giant cookie and purchasing buil
 
 | 🧙 Wizard Tower | 330,000,000 | 44,000 | Summons cookies with magic spells |
 
-| 🚀 Spaceship | 5,100,000,000 | 260,000 | Brings cookies from other planets |### 🏪 Purchase System### 🏪 Sistema de Compra
+| 🚀 Spaceship | 5,100,000,000 | 260,000 | Brings cookies from other planets |### 🏪 Purchase System## 📖 How to Play
 
 | ⏰ Time Machine | 75,000,000,000 | 1,600,000 | Brings cookies from the past |
 
-- **Quantity selector**: Choose how many buildings to buy at once- **Selector de cantidad**: Elige cuántos edificios comprar a la vez
+- **Quantity selector**: Choose how many buildings to buy at once
 
 ### 💡 Special Features
 
-  - `x1` - Buy 1 building  - `x1` - Compra 1 edificio
+  - `x1` - Buy 1 building
 
 #### 💾 Save System
 
-- **Auto-save**: Automatically saves every 10 seconds  - `x5` - Buy 5 buildings  - `x5` - Compra 5 edificios
+- **Auto-save**: Automatically saves every 10 seconds  - `x5` - Buy 5 buildings
 
 - **Export save**: 💾 Generate a code to share your progress
 
-- **Import save**: 📥 Load a game from a code  - `x10` - Buy 10 buildings  - `x10` - Compra 10 edificios
+- **Import save**: 📥 Load a game from a code  - `x10` - Buy 10 buildings### 🎯 Objective> **Live Version:** https://jmt-code.github.io/Idle_game/> **Live Version:** https://jmt-code.github.io/Idle_game/
 
 - **Offline production**: Earn cookies even when not playing (max. 1 hour)
 
-  - `x100` - Buy 100 buildings  - `x100` - Compra 100 edificios
+  - `x100` - Buy 100 buildings
 
 #### 🎨 Visual Effects
 
-- **Magic particles** ✨ when clicking  - `MAX` - Buy the maximum you can afford  - `MAX` - Compra el máximo que puedas con tus galletas
+- **Magic particles** ✨ when clicking  - `MAX` - Buy the maximum you can affordBake as many cookies as you can by clicking the giant cookie and purchasing buildings that generate them automatically.
 
 - **Glowing cookie** that changes based on your production:
 
@@ -110,7 +110,7 @@ Bake as many cookies as you can by clicking the giant cookie and purchasing buil
 
   - 🟡 Gold (>1,000 CPS)
 
-  - 🟣 Epic (>10,000 CPS)### 🏗️ Available Buildings### 🏗️ Edificios Disponibles
+  - 🟣 Epic (>10,000 CPS)### 🏗️ Available Buildings
 
 - **Achievement messages** when reaching important milestones
 
@@ -118,43 +118,357 @@ Bake as many cookies as you can by clicking the giant cookie and purchasing buil
 
 
 
-#### 🎯 Milestone System| Building | Base Cost | Production/s | Description || Edificio | Costo Base | Producción/s | Descripción |
+#### 🎯 Milestone System| Building | Base Cost | Production/s | Description |### 🖱️ Basic Controls
 
 Receive special messages when reaching:
 
-- 100 cookies 🎉|----------|-----------|--------------|-------------||----------|------------|--------------|-------------|
+- 100 cookies 🎉|----------|-----------|--------------|-------------|
 
 - 1,000 cookies 🎊
 
-- 10,000 cookies 🌟| 👆 Cursor | 15 | 0.1 | Autoclicks the cookie || 👆 Cursor | 15 | 0.1 | Autoclicks para ti |
+- 10,000 cookies 🌟| 👆 Cursor | 15 | 0.1 | Autoclicks the cookie |1. **Click the cookie** 🍪 - Generates +1 cookie per click------
 
 - 100,000 cookies 💫
 
-- 1,000,000 cookies 🏆| 👵 Grandma | 100 | 1 | A nice grandma to bake more cookies || 👵 Abuela | 100 | 1 | Una abuela amable que hornea galletas |
+- 1,000,000 cookies 🏆| 👵 Grandma | 100 | 1 | A nice grandma to bake more cookies |
 
 - 10,000,000 cookies 👑
 
-| 🌾 Farm | 1,100 | 8 | Grows cookie plants from cookie seeds || 🌾 Granja | 1,100 | 8 | Cultiva ingredientes para galletas |
+| 🌾 Farm | 1,100 | 8 | Grows cookie plants from cookie seeds |2. **Buy buildings** 🏪 - Generates cookies automatically
 
 ### 🎮 Strategies and Tips
 
-| ⛏️ Mine | 12,000 | 47 | Mines out cookie dough and chocolate chips || ⛏️ Mina | 12,000 | 47 | Extrae azúcar de las profundidades |
+| ⛏️ Mine | 12,000 | 47 | Mines out cookie dough and chocolate chips |
 
 1. **Start by buying Cursors** - They're cheap and effective at the beginning
 
-2. **Unlock new buildings** - You need to buy at least 1 of the previous building| 🏭 Factory | 130,000 | 260 | Produces large quantities of cookies || 🏭 Fábrica | 130,000 | 260 | Producción masiva de galletas |
+2. **Unlock new buildings** - You need to buy at least 1 of the previous building| 🏭 Factory | 130,000 | 260 | Produces large quantities of cookies |3. **Upgrade your production** 📈 - Unlock more powerful buildings
 
 3. **Use the MAX multiplier** - When you have many cookies, buy in bulk
 
-4. **Take advantage of offline time** - The game keeps generating cookies (up to 1 hour)| 🏦 Bank | 1,400,000 | 1,400 | Generates cookies from interest || 🏦 Banco | 1,400,000 | 1,400 | Genera galletas mediante inversiones |
+4. **Take advantage of offline time** - The game keeps generating cookies (up to 1 hour)| 🏦 Bank | 1,400,000 | 1,400 | Generates cookies from interest |
 
 5. **Export your save** - Don't lose your progress, save your code
 
+6. **Check the tooltips** - They show you exactly how much you'll improve| ⛩️ Temple | 20,000,000 | 7,800 | Summons sacred cookies |
+
+
+
+---| 🧙 Wizard Tower | 330,000,000 | 44,000 | Summons cookies with magic spells |
+
+
+
+## 🚀 Technical Features| 🚀 Spaceship | 5,100,000,000 | 260,000 | Brings cookies from other planets |### 🏪 Purchase System## 📖 How to Play## 📖 Cómo Jugar
+
+
+
+### ✨ Technologies| ⏰ Time Machine | 75,000,000,000 | 1,600,000 | Brings cookies from the past |
+
+- **React 18.3** - Reactive UI framework
+
+- **Zustand 4.5** - Global state with persistence- **Quantity selector**: Choose how many buildings to buy at once
+
+- **Vite 5.4** - Ultra-fast build tool
+
+- **CSS Animations** - Smooth visual effects### 💡 Special Features
+
+
+
+### 🎨 Development Features  - `x1` - Buy 1 building
+
+- Save system with Base64 compression
+
+- Offline production calculation based on timestamp#### 💾 Save System
+
+- Scalable cost formula (1.15x per unit)
+
+- Automatic persistence with localStorage- **Auto-save**: Automatically saves every 10 seconds  - `x5` - Buy 5 buildings
+
+- Adaptive tooltips based on screen position
+
+- Optimized CSS animations- **Export save**: 💾 Generate a code to share your progress
+
+
+
+---- **Import save**: 📥 Load a game from a code  - `x10` - Buy 10 buildings### 🎯 Objective### 🎯 Objetivo
+
+
+
+## 💻 Local Installation- **Offline production**: Earn cookies even when not playing (max. 1 hour)
+
+
+
+If you want to run the game on your machine:  - `x100` - Buy 100 buildings
+
+
+
+### Requirements#### 🎨 Visual Effects
+
+- Node.js 16+
+
+- npm or yarn- **Magic particles** ✨ when clicking  - `MAX` - Buy the maximum you can affordBake as many cookies as you can by clicking the giant cookie and purchasing buildings that generate them automatically.Hornea tantas galletas como puedas haciendo click en la galleta gigante y comprando edificios que las generen automáticamente.
+
+
+
+### Steps- **Glowing cookie** that changes based on your production:
+
+
+
+```bash  - 🟢 Green (>100 CPS)
+
+# Clone repository
+
+git clone https://github.com/Jmt-code/Idle_game.git  - 🟡 Gold (>1,000 CPS)
+
+cd Idle_game
+
+  - 🟣 Epic (>10,000 CPS)### 🏗️ Available Buildings
+
+# Install dependencies
+
+npm install- **Achievement messages** when reaching important milestones
+
+
+
+# Run in development- **Informative tooltips** when hovering over buildings
+
+npm run dev
+
+
+
+# Build for production
+
+npm run build#### 🎯 Milestone System| Building | Base Cost | Production/s | Description |### 🖱️ Basic Controls### 🖱️ Controles Básicos
+
+
+
+# Preview buildReceive special messages when reaching:
+
+npm run preview
+
+```- 100 cookies 🎉|----------|-----------|--------------|-------------|
+
+
+
+The game will be available at `http://localhost:5173`- 1,000 cookies 🎊
+
+
+
+---- 10,000 cookies 🌟| 👆 Cursor | 15 | 0.1 | Autoclicks the cookie |1. **Click the cookie** 🍪 - Generates +1 cookie per click1. **Click en la galleta** 🍪 - Genera +1 galleta por click
+
+
+
+## 🚀 Deploy to GitHub Pages- 100,000 cookies 💫
+
+
+
+```bash- 1,000,000 cookies 🏆| 👵 Grandma | 100 | 1 | A nice grandma to bake more cookies |
+
+# Build and deploy
+
+npm run deploy- 10,000,000 cookies 👑
+
+```
+
+| 🌾 Farm | 1,100 | 8 | Grows cookie plants from cookie seeds |2. **Buy buildings** 🏪 - Generates cookies automatically2. **Compra edificios** 🏪 - Genera galletas automáticamente
+
+The game will be automatically deployed to: `https://jmt-code.github.io/Idle_game/`
+
+### 🎮 Strategies and Tips
+
+---
+
+| ⛏️ Mine | 12,000 | 47 | Mines out cookie dough and chocolate chips |
+
+## 📝 License
+
+1. **Start by buying Cursors** - They're cheap and effective at the beginning
+
+This project is open source and available under the MIT license.
+
+2. **Unlock new buildings** - You need to buy at least 1 of the previous building| 🏭 Factory | 130,000 | 260 | Produces large quantities of cookies |3. **Upgrade your production** 📈 - Unlock more powerful buildings3. **Mejora tu producción** 📈 - Desbloquea nuevos edificios más poderosos
+
+---
+
+3. **Use the MAX multiplier** - When you have many cookies, buy in bulk
+
+## 🎮 Have Fun Playing!
+
+4. **Take advantage of offline time** - The game keeps generating cookies (up to 1 hour)| 🏦 Bank | 1,400,000 | 1,400 | Generates cookies from interest |
+
+**How many cookies can you bake? Start clicking and find out!** 🍪✨
+
+5. **Export your save** - Don't lose your progress, save your code
+
+---
+
+6. **Check the tooltips** - They show you exactly how much you'll improve| ⛩️ Temple | 20,000,000 | 7,800 | Summons sacred cookies |
+
+<div align="center">
+
+  <p>Made with ❤️ and lots of 🍪</p>
+
+  <p><strong><a href="https://jmt-code.github.io/Idle_game/">🎮 PLAY NOW</a></strong></p>
+
+</div>---| 🧙 Wizard Tower | 330,000,000 | 44,000 | Summons cookies with magic spells |
+
+
+
+
+## 🚀 Technical Features| 🚀 Spaceship | 5,100,000,000 | 260,000 | Brings cookies from other planets |### 🏪 Purchase System### 🏪 Sistema de Compra
+
+
+
+### ✨ Technologies| ⏰ Time Machine | 75,000,000,000 | 1,600,000 | Brings cookies from the past |
+
+- **React 18.3** - Reactive UI framework
+
+- **Zustand 4.5** - Global state with persistence- **Quantity selector**: Choose how many buildings to buy at once- **Selector de cantidad**: Elige cuántos edificios comprar a la vez
+
+- **Vite 5.4** - Ultra-fast build tool
+
+- **CSS Animations** - Smooth visual effects### 💡 Special Features
+
+
+
+### 🎨 Development Features  - `x1` - Buy 1 building  - `x1` - Compra 1 edificio
+
+- Save system with Base64 compression
+
+- Offline production calculation based on timestamp#### 💾 Save System
+
+- Scalable cost formula (1.15x per unit)
+
+- Automatic persistence with localStorage- **Auto-save**: Automatically saves every 10 seconds  - `x5` - Buy 5 buildings  - `x5` - Compra 5 edificios
+
+- Adaptive tooltips based on screen position
+
+- Optimized CSS animations- **Export save**: 💾 Generate a code to share your progress
+
+
+
+---- **Import save**: 📥 Load a game from a code  - `x10` - Buy 10 buildings  - `x10` - Compra 10 edificios
+
+
+
+## 💻 Local Installation- **Offline production**: Earn cookies even when not playing (max. 1 hour)
+
+
+
+If you want to run the game on your machine:  - `x100` - Buy 100 buildings  - `x100` - Compra 100 edificios
+
+
+
+### Requirements#### 🎨 Visual Effects
+
+- Node.js 16+
+
+- npm or yarn- **Magic particles** ✨ when clicking  - `MAX` - Buy the maximum you can afford  - `MAX` - Compra el máximo que puedas con tus galletas
+
+
+
+### Steps- **Glowing cookie** that changes based on your production:
+
+
+
+```bash  - 🟢 Green (>100 CPS)
+
+# Clone repository
+
+git clone https://github.com/Jmt-code/Idle_game.git  - 🟡 Gold (>1,000 CPS)
+
+cd Idle_game
+
+  - 🟣 Epic (>10,000 CPS)### 🏗️ Available Buildings### 🏗️ Edificios Disponibles
+
+# Install dependencies
+
+npm install- **Achievement messages** when reaching important milestones
+
+
+
+# Run in development- **Informative tooltips** when hovering over buildings
+
+npm run dev
+
+
+
+# Build for production
+
+npm run build#### 🎯 Milestone System| Building | Base Cost | Production/s | Description || Edificio | Costo Base | Producción/s | Descripción |
+
+
+
+# Preview buildReceive special messages when reaching:
+
+npm run preview
+
+```- 100 cookies 🎉|----------|-----------|--------------|-------------||----------|------------|--------------|-------------|
+
+
+
+The game will be available at `http://localhost:5173`- 1,000 cookies 🎊
+
+
+
+---- 10,000 cookies 🌟| 👆 Cursor | 15 | 0.1 | Autoclicks the cookie || 👆 Cursor | 15 | 0.1 | Autoclicks para ti |
+
+
+
+## 🚀 Deploy to GitHub Pages- 100,000 cookies 💫
+
+
+
+```bash- 1,000,000 cookies 🏆| 👵 Grandma | 100 | 1 | A nice grandma to bake more cookies || 👵 Abuela | 100 | 1 | Una abuela amable que hornea galletas |
+
+# Build and deploy
+
+npm run deploy- 10,000,000 cookies 👑
+
+```
+
+| 🌾 Farm | 1,100 | 8 | Grows cookie plants from cookie seeds || 🌾 Granja | 1,100 | 8 | Cultiva ingredientes para galletas |
+
+The game will be automatically deployed to: `https://jmt-code.github.io/Idle_game/`
+
+### 🎮 Strategies and Tips
+
+---
+
+| ⛏️ Mine | 12,000 | 47 | Mines out cookie dough and chocolate chips || ⛏️ Mina | 12,000 | 47 | Extrae azúcar de las profundidades |
+
+## 📝 License
+
+1. **Start by buying Cursors** - They're cheap and effective at the beginning
+
+This project is open source and available under the MIT license.
+
+2. **Unlock new buildings** - You need to buy at least 1 of the previous building| 🏭 Factory | 130,000 | 260 | Produces large quantities of cookies || 🏭 Fábrica | 130,000 | 260 | Producción masiva de galletas |
+
+---
+
+3. **Use the MAX multiplier** - When you have many cookies, buy in bulk
+
+## 🎮 Have Fun Playing!
+
+4. **Take advantage of offline time** - The game keeps generating cookies (up to 1 hour)| 🏦 Bank | 1,400,000 | 1,400 | Generates cookies from interest || 🏦 Banco | 1,400,000 | 1,400 | Genera galletas mediante inversiones |
+
+**How many cookies can you bake? Start clicking and find out!** 🍪✨
+
+5. **Export your save** - Don't lose your progress, save your code
+
+---
+
 6. **Check the tooltips** - They show you exactly how much you'll improve| ⛩️ Temple | 20,000,000 | 7,800 | Summons sacred cookies || ⛩️ Templo | 20,000,000 | 7,800 | Galletas sagradas |
 
+<div align="center">
 
+  <p>Made with ❤️ and lots of 🍪</p>
 
----| 🧙 Wizard Tower | 330,000,000 | 44,000 | Summons cookies with magic spells || 🧙 Torre de Mago | 330,000,000 | 44,000 | Invoca galletas mágicas |
+  <p><strong><a href="https://jmt-code.github.io/Idle_game/">🎮 PLAY NOW</a></strong></p>
+
+</div>---| 🧙 Wizard Tower | 330,000,000 | 44,000 | Summons cookies with magic spells || 🧙 Torre de Mago | 330,000,000 | 44,000 | Invoca galletas mágicas |
+
 
 
 
