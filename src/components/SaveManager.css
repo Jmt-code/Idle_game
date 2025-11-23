@@ -261,3 +261,94 @@
     transform: translateY(0);
   }
 }
+
+.prestige-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 1rem;
+  height: 50px;
+  border-radius: 25px;
+  border: 2px solid #FFD700;
+  background: rgba(26, 26, 46, 0.95);
+  color: #FFD700;
+  font-size: 1.2rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.prestige-info:hover {
+  background: rgba(255, 215, 0, 0.2);
+  transform: scale(1.05);
+  box-shadow: 0 0 20px rgba(255, 215, 0, 0.4);
+}
+
+.prestige-modal {
+  border-color: #FFD700;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8), 0 0 40px rgba(255, 215, 0, 0.3);
+}
+
+.prestige-modal h2 {
+  color: #FFD700;
+  text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+}
+
+.prestige-stats {
+  background: rgba(0, 0, 0, 0.3);
+  padding: 1.5rem;
+  border-radius: 10px;
+  margin-bottom: 1.5rem;
+  border: 1px solid rgba(255, 215, 0, 0.2);
+}
+
+.stat-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+  color: #ddd;
+}
+
+.stat-row:last-child {
+  margin-bottom: 0;
+  padding-top: 0.5rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  margin-top: 0.5rem;
+}
+
+.highlight-gold { color: #FFD700; font-weight: bold; }
+.highlight-green { color: #4ecca3; font-weight: bold; }
+.highlight-cyan { color: #00ffff; font-weight: bold; }
+
+.ascend-btn {
+  background: linear-gradient(135deg, #FFD700, #FFA500);
+  color: #1a1a2e;
+  border-color: #FFD700;
+  box-shadow: 0 4px 15px rgba(255, 215, 0, 0.3);
+}
+
+.ascend-btn:hover {
+  background: linear-gradient(135deg, #FFE44D, #FFD700);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px rgba(255, 215, 0, 0.5);
+}
+
+.ascend-btn:disabled {
+  background: #555;
+  border-color: #777;
+  color: #aaa;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+.ascend-note {
+  font-size: 0.8rem !important;
+  color: #888 !important;
+  margin-top: 1rem !important;
+  margin-bottom: 0 !important;
+  font-style: italic;
+}

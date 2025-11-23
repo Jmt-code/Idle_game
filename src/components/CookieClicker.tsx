@@ -1,6 +1,22 @@
 import { useEffect, useRef, useState } from 'react'
 import { useGameStore } from '../store/gameStore'
+import GoldenCookie from './GoldenCookie'
 import './CookieClicker.css'
+
+interface ClickEffect {
+  id: number
+  x: number
+  y: number
+  value: string
+  isGolden?: boolean
+}
+
+interface Particle {
+  id: number
+  x: number
+  y: number
+  rotation: number
+}
 
 function CookieClicker() {
   const { 
@@ -12,9 +28,9 @@ function CookieClicker() {
     recalculateCPS 
   } = useGameStore()
 
-  const cookieRef = useRef(null)
-  const clicksRef = useRef([])
-  const [particles, setParticles] = useState([])
+  const cookieRef = useRef<HTMLDivElement>(null)
+  const [clicks, setClicks] = useState<ClickEffect[]>([])
+  const [particles, setParticles] = useState<Particle[]>([])
   const [milestoneMessage, setMilestoneMessage] = useState('')
 
   useEffect(() => {
@@ -60,7 +76,30 @@ function CookieClicker() {
     }
   }, [totalCookiesEarned])
 
-  const handleCookieClick = (e) => {
+  const formatNumber = (num: number) => {
+    if (num >= 1e12) return (num / 1e12).toFixed(2) + ' T'
+    if (num >= 1e9) return (num / 1e9).toFixed(2) + ' B'
+    if (num >= 1e6) return (num / 1e6).toFixed(2) + ' M'
+    if (num >= 1e3) return (num / 1e3).toFixed(2) + ' K'
+    return Math.floor(num).toLocaleString()
+  }
+
+  const handleGoldenCookieClick = (bonus: number, x: number, y: number) => {
+    const clickEffect: ClickEffect = {
+      id: Date.now(),
+      x,
+      y,
+      value: `+${formatNumber(bonus)}!`,
+      isGolden: true
+    }
+    
+    setClicks(prev => [...prev, clickEffect])
+    setTimeout(() => {
+      setClicks(prev => prev.filter(c => c.id !== clickEffect.id))
+    }, 2000)
+  }
+
+  const handleCookieClick = (e: React.MouseEvent) => {
     click()
     
     // Click animation
@@ -75,25 +114,25 @@ function CookieClicker() {
     const x = e.clientX - rect.left
     const y = e.clientY - rect.top
     
-    const clickEffect = {
+    const clickEffect: ClickEffect = {
       id: Date.now() + Math.random(),
       x,
       y,
       value: '+1'
     }
     
-    clicksRef.current = [...clicksRef.current, clickEffect]
+    setClicks(prev => [...prev, clickEffect])
     
     setTimeout(() => {
-      clicksRef.current = clicksRef.current.filter(c => c.id !== clickEffect.id)
+      setClicks(prev => prev.filter(c => c.id !== clickEffect.id))
     }, 1000)
 
     // Create particles
     createParticles(e.clientX, e.clientY)
   }
 
-  const createParticles = (x, y) => {
-    const newParticles = []
+  const createParticles = (x: number, y: number) => {
+    const newParticles: Particle[] = []
     for (let i = 0; i < 8; i++) {
       newParticles.push({
         id: Date.now() + Math.random() + i,
@@ -107,14 +146,6 @@ function CookieClicker() {
     setTimeout(() => {
       setParticles(prev => prev.filter(p => !newParticles.find(np => np.id === p.id)))
     }, 1000)
-  }
-
-  const formatNumber = (num) => {
-    if (num >= 1e12) return (num / 1e12).toFixed(2) + ' T'
-    if (num >= 1e9) return (num / 1e9).toFixed(2) + ' B'
-    if (num >= 1e6) return (num / 1e6).toFixed(2) + ' M'
-    if (num >= 1e3) return (num / 1e3).toFixed(2) + ' K'
-    return Math.floor(num).toLocaleString()
   }
 
   const getCookieGlow = () => {
@@ -153,6 +184,8 @@ function CookieClicker() {
       </div>
 
       <div className="cookie-area">
+        <GoldenCookie onGoldenClick={handleGoldenCookieClick} />
+        
         <div 
           ref={cookieRef}
           className={`big-cookie ${getCookieGlow()}`}
@@ -160,10 +193,10 @@ function CookieClicker() {
         >
           🍪
         </div>
-        {clicksRef.current.map(click => (
+        {clicks.map(click => (
           <div
             key={click.id}
-            className="click-number"
+            className={`click-number ${click.isGolden ? 'golden-click' : ''}`}
             style={{ left: click.x, top: click.y }}
           >
             {click.value}
